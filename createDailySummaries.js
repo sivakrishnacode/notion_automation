@@ -4,8 +4,8 @@ import dailySummaries from "./data.json" with { type: "json" };
 
 
 // // 🔧 Configuration
-// const NOTION_TOKEN = "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"
-// const DATABASE_ID = "29ba0156626580f8b2b7ee95a88a6446"
+// const NOTION_TOKEN = ""
+// const DATABASE_ID = ""
 
 // Helper — convert "21 Apr 2025" → "2025-04-21"
 function toISODate(dateStr) {
